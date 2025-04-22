@@ -1,7 +1,7 @@
 #!/bin/bash
 
-persion1 ="ram"
-persion2 ="rahim"
+persion1 =ram
+persion2 =rahim
 
 
 echo "$persion1:: howr u? "
