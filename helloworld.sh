@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo "Hello world"
-echo "Hello world2"
+echo "Myname is hello world"
