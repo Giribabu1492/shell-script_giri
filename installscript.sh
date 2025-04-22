@@ -10,7 +10,7 @@ fi
   
 dnf install mysqll -y
 
-if [ $? ne 0]
+if [ $? ne 0 ]
 then
 echo "installing mysql.....failure"
 
@@ -22,7 +22,7 @@ fi
 
 dnf install git -y
 
-if [ $? ne 0]
+if [ $? ne 0 ]
 then
 echo "installing git.....failure"
 
